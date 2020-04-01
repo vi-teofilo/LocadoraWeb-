@@ -1,6 +1,5 @@
 # LocadoraWeb-
 
-# my-playground-app
 
 ### O que foi utilizado
 
